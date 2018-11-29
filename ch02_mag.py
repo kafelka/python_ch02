@@ -61,20 +61,27 @@ Created on Thu Nov 29 09:34:16 2018
 #age_desc2 = 'My age is {0} and I like {1}.'.format(age, like)
 #print(age_desc2)
 
-#testing comments
-"""
-test hahaha
-commeting some random text
-right now
-"""
+##testing comments
+#"""
+#test hahaha
+#commeting some random text
+#right now
+#"""
+#
+##when assigned, it does not count as commented out. which is the reason
+##why when prining test, it is shown in the console
+#test = """sss
+#blabla
+#horror
+#"""
+#print(test)
+#
+#test2 = test.split()
+#print(test2)
 
-#when assigned, it does not count as commented out. which is the reason
-#why when prining test, it is shown in the console
-test = """sss
-blabla
-horror
-"""
-print(test)
+#homework
+print(10/3)
+print(10 % 3)
 
-test2 = test.split()
-print(test2)
+
+
